@@ -1,4 +1,4 @@
-I am Aniket Kakadiya studenr of Laxmi Institute of Technology
+I am Aniket Kakadiya, a student of Laxmi Institute of Technology
 
 <!---
 aniket-edu19/aniket-edu19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
